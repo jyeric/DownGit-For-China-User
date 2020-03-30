@@ -1,3 +1,6 @@
+# 使用jsdelivr代替googleapis和rawgit方便中国用户访问
+# Changes: use jsdelivr instead of googleapis and rawgit for chinese user to use
+
 <h1> <img src="https://github.com/MinhasKamal/DownGit/raw/master/res/images/downgit.png" width="20" height=auto /> DownGit </h1>
 
 #### Create GitHub Resource Download Link
