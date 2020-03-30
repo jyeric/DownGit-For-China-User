@@ -9,7 +9,7 @@ With this tool you can directly download or create download link to any GitHub *
 
 ### Website
 
-[DownGit ↑](https://minhaskamal.github.io/DownGit)
+[DownGit ↑ using Gitee Pages](https://jyeric.gitee.io/downgit-for-china-user)
 
 ### How to Use?
 
